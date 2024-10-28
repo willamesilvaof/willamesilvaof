@@ -8,7 +8,7 @@ Tenho 17 Anos
 
 ### 🚀 Projetos Acadêmicos
 - **[Projeto 1](CTI-P7-POO-20242-LISTA01)**: Projeto de Programação Orientada a Objetos usando a Linguagem de Programação **JAVA**.
-- **[Projeto 2](link_do_projeto)**: Breve descrição.
+- **[Projeto 2](Atividades-WEB-I---HTML)**: Projeto de Desenvolvimento WEB I usando a Linguagem de Marcação **HTML**.
 
 ---
 
