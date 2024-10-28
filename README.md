@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Willame Silva! 👋
 
-<!--
-**willamesilvaof/willamesilvaof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Sobre Mim
+Sou aluno do curso técnico em informática integrado no IFCE. Estou iniciando minha jornada no GitHub e aprendendo sobre desenvolvimento de software.
+Tenho 17 Anos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos Acadêmicos
+- **[Projeto 1](link_do_projeto)**: Breve descrição.
+- **[Projeto 2](link_do_projeto)**: Breve descrição.
+
+---
+
+### 🛠️ Tecnologias que Estou Aprendendo
+- Java
+- Python
+- HTML5
+
+---
+
+### 📫 Entre em Contato
+- 📧 Email: [willame.silva@aluno.ifce.edu.br](mailto:willame.silva@aluno.ifce.edu.br)
