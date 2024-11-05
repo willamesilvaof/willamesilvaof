@@ -1,23 +1,46 @@
-# Olá, eu sou Willame Silva! 👋
+# Olá, sou Willame Silva! 👋
 
-### 🎓 Sobre Mim
-Sou aluno do curso técnico em informática integrado no IFCE. Estou iniciando minha jornada no GitHub e aprendendo sobre desenvolvimento de software.
-Tenho 17 Anos
+Sou aluno do **Curso Técnico em Informática** no **IFCE - Campus Maranguape**, Gosto muito tecnologia e inovação. Estou sempre em busca de aprender e desenvolver novas habilidades, e aqui você vai encontrar mais sobre minha trajetória acadêmica, meus interesses e projetos.
 
----
+## 🌱 Sobre Mim
 
-### 🚀 Projetos Acadêmicos
-- **[Projeto 1](https://github.com/willamesilvaof/CTI-P7-POO-20242-LISTA01)**: Projeto de Programação Orientada a Objetos usando a Linguagem de Programação **JAVA**.
-- **[Projeto 2](https://github.com/willamesilvaof/Atividades-WEB-I---HTML)**: Projeto de Desenvolvimento WEB I usando a Linguagem de Marcação **HTML**.
+- **Nome**: Willame Silva.
+- **Idade**: 17 Anos.
+- **Localização**: Maranguape, Ceará
+- **Formação**: Estudante de **Técnico em Informática** no **IFCE - Campus Maranguape**
+- **Interesses**: Desenvolvimento de software, redes de computadores,inteligência artificial, e tudo relacionado ao universo da tecnologia.
 
----
+## 🛠️ Minhas Habilidades
 
-### 🛠️ Tecnologias que Estou Aprendendo
-- Java
-- Python
-- HTML5
+- **Linguagens de Programação**:
+  - Python e Java.
+  
+- **Desenvolvimento Web**:
+  - HTML
+  
+- **Redes e Infraestrutura**:
+  - Conceitos de redes, configuração de roteadores, TCP/IP.
 
----
+- **Banco de Dados**:
+  - MySQL.
 
-### 📫 Entre em Contato
-- 📧 Email: [willame.silva@aluno.ifce.edu.br](mailto:willame.silva@aluno.ifce.edu.br)
+- **Ferramentas**:
+  - GitHub, Visual Studio Code e Eclipse.
+
+- **Soft Skills**:
+  - Comunicação, Trabalho em equipe, Resolução de problemas, Gestão de tempo.
+
+## 💼 Projetos Acadêmicos
+
+### Projeto 1 - Disciplia de Programação Orientada a Objetos
+- **Link**: [JAVA-POO](https://github.com/willamesilvaof/CTI-P7-POO-20242-LISTA01).
+
+### Projeto 2 - Disciplina de Desenvolvimento WEB
+- **Link**: [HTML-WEB](https://github.com/willamesilvaof/Atividades-WEB-I---HTML).
+
+
+## 💬 Vamos Conversar!
+
+Estou sempre aberto a aprender mais e compartilhar experiências. Se você estiver interessado em conversar sobre tecnologia, trocar ideias ou colaborar em projetos, não hesite em me chamar!
+
+- 📧 Email: [willame.silva@aluno.ifce.edu.br](willame.silva@aluno.ifce.edu.br)
