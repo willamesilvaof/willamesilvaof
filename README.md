@@ -10,7 +10,7 @@ Sou aluno do **Curso Técnico em Informática** no **IFCE - Campus Maranguape**,
 - **Formação**: Estudante de **Técnico em Informática** no **IFCE - Campus Maranguape**
 - **Interesses**: Desenvolvimento de software, redes de computadores,inteligência artificial, e tudo relacionado ao universo da tecnologia.
 
-## 🛠️ Minhas Habilidades
+## 🛠️ Habilidades que estou Apredendo!
 
 - **Linguagens de Programação**:
   - Python e Java.
