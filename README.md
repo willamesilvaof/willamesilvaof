@@ -37,7 +37,7 @@ Sou aluno do **Curso Técnico em Informática** no **IFCE - Campus Maranguape**,
 
 ### Projeto 2 - Disciplina de Desenvolvimento WEB
 - **Link**: [HTML-WEB](https://github.com/willamesilvaof/Atividades-WEB-I---HTML).
-- **Link-Projeto: [Projetos-HTML](https://github.com/willamesilvaof/Projetos-WEB-I-HTML).
+- **Link-Projeto**: [Projetos-HTML](https://github.com/willamesilvaof/Projetos-WEB-I-HTML).
 
 
 ## 💬 Vamos Conversar!
